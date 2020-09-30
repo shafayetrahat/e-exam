@@ -1,0 +1,12 @@
+export const auth_state = null;
+export const get_examlists = "GET_EXAMS";
+export const post_exam = "POST_EXAM";
+export const post_exam_err = "POST_EXAM_ERR";
+export const create_user = "CREATE_USER";
+export const create_user_err = "CREATE_USER_ERR";
+export const postAnswer = "POST_ANSWER";
+export const postAnswerErr = "POST_ANSWER_ERR";
+export const postQuestion = "POST_QUESTION";
+export const postQuestionErr = "POST_QUESTION_ERR";
+export const deleteQuestion = "Delete_QUESTION";
+export const deleteQuestionErr = "Delete_QUESTION_ERR";
